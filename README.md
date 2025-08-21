@@ -7,21 +7,21 @@ Features:
 
 Admin
 
-Add/Delete student
+1) Add/Delete student
 
-Mark attendance (P/A/L) for a date
+2) Mark attendance (P/A/L) for a date
 
-View student attendance + detailed records
+3) View student attendance + detailed records
 
-Modify a recorded attendance entry
+4) Modify a recorded attendance entry
 
-Generate reports + defaulter list (threshold)
+5) Generate reports + defaulter list (threshold)
 
 Student
 
-View own attendance + per-date details
+1) View own attendance + per-date details
 
-Change password
+2) Change password
 
 Build
 Prerequisites: GCC or Clang, Make (optional)
